@@ -1,0 +1,3 @@
+first open cmd and open the location of the directory of the file eg (D:\Mano\Python\gadgets)
+then 
+pyinstaller --onefile filename.py     # don't forget to put .py at the end
